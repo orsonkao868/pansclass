@@ -1,2 +1,1 @@
-# pansclass
-A class from god
+# 我的專案
